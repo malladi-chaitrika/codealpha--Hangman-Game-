@@ -39,6 +39,8 @@ README.md # Project description and instructions
 
 ```bash
 python task1.py
+
+## 📷 Sample Output
 === Hangman ===
 
 Word:  _ _ _ _ _ _
