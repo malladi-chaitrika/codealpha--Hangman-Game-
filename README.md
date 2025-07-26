@@ -1,4 +1,4 @@
-```markdown
+
 # 🕹️ Hangman Game
 
 ## 📌 Overview
